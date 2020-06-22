@@ -27,3 +27,6 @@ The terms I learnt from the IBM Bootcamp, and by the mentors from SmartBridge ar
 Node_Red Dasboard link after deploying : https://node-red-vqivh.eu-gb.mybluemix.net/ui
 
 Preview link of Watson Assistant : https://eu-gb.assistant.watson.cloud.ibm.com/eu-gb/crn:v1:bluemix:public:conversation:eu-gb:a~2F0d1fb70035ce4af6bec992d78e38057e:4846548c-dbfd-4009-9201-dd16b71e6093::/skills/ac7dff0a-cdf3-4def-9c05-5f563fd96679/build/intents Have a casual talks about availability_of_flight, booking a flight, check_status_of_a_flight like What is status of AA 456,etc.
+
+Link for chat bot :- https://web-chat.global.assistant.watson.cloud.ibm.com/preview.html?region=eu-gb&integrationID=a7556d9f-4889-44fc-8c3a-4f37dd0e7d28&serviceInstanceID=9d3a578c-455f-4480-9f49-d65d0b0da22a
+Have a Casual Talks about hotel food management, Availability of food ,Order food , Available Discount.
