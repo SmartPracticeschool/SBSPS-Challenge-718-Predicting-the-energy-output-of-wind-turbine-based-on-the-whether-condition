@@ -19,7 +19,7 @@ For these tasks, we required data sets for analysis of data on above mentioned b
 The Dataset file is actually taken from Kaggle. 
 
 We will upload a project description and feedback video of this project in my youtube channel link below: 
-Project description Video: 
+Project description Video: https://youtu.be/Acux0EouA_s
 Feedback Video: 
 
 The terms I learnt from the IBM Bootcamp, and by the mentors from SmartBridge are as follows:
